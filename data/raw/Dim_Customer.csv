@@ -1,0 +1,251 @@
+CustomerID,CustomerName,Segment,Region,Country,City
+1,Yuki Rodriguez,Consumer,Asia Pacific,India,Mumbai
+2,John Jackson,Consumer,North America,United States,Seattle
+3,Linda Taylor,Corporate,North America,United States,Chicago
+4,Linda Anderson,Corporate,Asia Pacific,Australia,Melbourne
+5,David Rodriguez,Consumer,North America,United States,Dallas
+6,Richard Brown,Consumer,Europe,United Kingdom,London
+7,Yuki Anderson,Consumer,Europe,France,Paris
+8,Elizabeth Martin,Small Business,Europe,United Kingdom,Birmingham
+9,John Johnson,Corporate,Europe,Germany,Hamburg
+10,Emma Brown,Consumer,Europe,United Kingdom,London
+11,Barbara Lopez,Consumer,Europe,France,Paris
+12,Ravi Garcia,Consumer,Europe,United Kingdom,Birmingham
+13,Richard Rodriguez,Small Business,North America,United States,Dallas
+14,Liam Johnson,Consumer,Asia Pacific,Australia,Melbourne
+15,William Williams,Consumer,North America,Canada,Vancouver
+16,Ravi Thomas,Consumer,Asia Pacific,Japan,Tokyo
+17,William Jones,Consumer,Asia Pacific,Singapore,Singapore
+18,Noah Jackson,Consumer,Asia Pacific,Japan,Osaka
+19,Jessica Williams,Corporate,North America,United States,Seattle
+20,Sofia Wilson,Corporate,North America,United States,Chicago
+21,Thomas Rodriguez,Small Business,Europe,Spain,Barcelona
+22,Hans Rodriguez,Corporate,North America,United States,Seattle
+23,Susan Garcia,Consumer,Europe,United Kingdom,Manchester
+24,Thomas Brown,Small Business,Asia Pacific,Japan,Tokyo
+25,Barbara Garcia,Consumer,Europe,Germany,Berlin
+26,Jessica Smith,Consumer,Asia Pacific,India,Delhi
+27,Mary Davis,Small Business,Europe,France,Paris
+28,Liam Williams,Small Business,North America,United States,Dallas
+29,Priya Thomas,Small Business,Asia Pacific,Australia,Sydney
+30,Emma Martin,Consumer,North America,Canada,Montreal
+31,Richard Lopez,Consumer,North America,United States,Los Angeles
+32,Linda Davis,Consumer,Asia Pacific,Singapore,Singapore
+33,Linda Smith,Consumer,North America,United States,Seattle
+34,John Johnson,Small Business,Asia Pacific,India,Bengaluru
+35,Priya Thomas,Consumer,North America,United States,Los Angeles
+36,Sofia Thomas,Corporate,North America,Canada,Toronto
+37,Priya Wilson,Consumer,North America,United States,New York
+38,Priya Brown,Consumer,Europe,Spain,Madrid
+39,Linda Miller,Consumer,Asia Pacific,Japan,Tokyo
+40,Jennifer Rodriguez,Consumer,Europe,Germany,Munich
+41,Patricia Johnson,Corporate,North America,Canada,Montreal
+42,Olivia Davis,Consumer,Asia Pacific,India,Mumbai
+43,Emma Gonzalez,Small Business,Europe,Spain,Madrid
+44,Richard Rodriguez,Small Business,North America,Canada,Toronto
+45,Wei Moore,Corporate,Europe,France,Lyon
+46,Elizabeth Miller,Small Business,Europe,Germany,Berlin
+47,Mary Johnson,Corporate,Asia Pacific,India,Delhi
+48,Thomas Williams,Small Business,Asia Pacific,Australia,Sydney
+49,Richard Brown,Small Business,North America,United States,Chicago
+50,Karen Williams,Consumer,Asia Pacific,Australia,Sydney
+51,Michael Hernandez,Consumer,Asia Pacific,Japan,Osaka
+52,Ravi Martinez,Consumer,Europe,Germany,Hamburg
+53,Karen Jackson,Small Business,North America,United States,Dallas
+54,William Jones,Small Business,North America,United States,Seattle
+55,Elizabeth Garcia,Consumer,North America,United States,Los Angeles
+56,Priya Moore,Consumer,Asia Pacific,Japan,Tokyo
+57,William Brown,Small Business,Asia Pacific,India,Bengaluru
+58,Elizabeth Martin,Consumer,Asia Pacific,Australia,Melbourne
+59,Ravi Rodriguez,Consumer,Europe,Germany,Hamburg
+60,Ravi Wilson,Corporate,Europe,United Kingdom,London
+61,Hans Jones,Corporate,North America,United States,Los Angeles
+62,Joseph Moore,Corporate,Europe,Germany,Hamburg
+63,John Jones,Consumer,Asia Pacific,India,Mumbai
+64,Robert Johnson,Consumer,Europe,Germany,Munich
+65,Priya Davis,Corporate,North America,Canada,Toronto
+66,Olivia Davis,Small Business,Europe,Spain,Madrid
+67,Jennifer Hernandez,Corporate,North America,Canada,Toronto
+68,Jennifer Brown,Consumer,Europe,Germany,Munich
+69,Michael Anderson,Consumer,North America,Canada,Toronto
+70,Priya Miller,Consumer,North America,United States,New York
+71,Barbara Taylor,Consumer,Europe,United Kingdom,Manchester
+72,Patricia Rodriguez,Consumer,Asia Pacific,Japan,Tokyo
+73,Karen Wilson,Consumer,Europe,United Kingdom,London
+74,Richard Jackson,Consumer,Europe,Spain,Madrid
+75,Thomas Moore,Corporate,North America,Canada,Toronto
+76,Susan Williams,Small Business,Asia Pacific,Australia,Melbourne
+77,Emma Brown,Corporate,Europe,France,Marseille
+78,Susan Hernandez,Consumer,Europe,France,Marseille
+79,Susan Gonzalez,Corporate,Europe,Germany,Berlin
+80,Sarah Smith,Consumer,North America,Canada,Vancouver
+81,Karen Hernandez,Consumer,North America,Canada,Montreal
+82,Jessica Garcia,Corporate,Europe,Germany,Hamburg
+83,Liam Davis,Corporate,Europe,France,Paris
+84,James Johnson,Consumer,North America,United States,Chicago
+85,Susan Jackson,Consumer,Europe,United Kingdom,Manchester
+86,Richard Davis,Consumer,Asia Pacific,Singapore,Singapore
+87,Hans Wilson,Consumer,Asia Pacific,India,Mumbai
+88,Sarah Davis,Small Business,Asia Pacific,Singapore,Singapore
+89,Sofia Anderson,Corporate,North America,Canada,Toronto
+90,Karen Taylor,Consumer,Asia Pacific,Japan,Osaka
+91,Yuki Thomas,Consumer,Asia Pacific,Singapore,Singapore
+92,Jessica Davis,Consumer,North America,Canada,Montreal
+93,William Hernandez,Consumer,North America,Canada,Toronto
+94,Robert Davis,Consumer,Asia Pacific,India,Bengaluru
+95,Susan Wilson,Consumer,North America,United States,New York
+96,Michael Wilson,Consumer,Europe,Spain,Madrid
+97,Jessica Smith,Small Business,Asia Pacific,India,Hyderabad
+98,Sarah Moore,Corporate,Europe,Spain,Barcelona
+99,William Wilson,Consumer,North America,Canada,Toronto
+100,Priya Gonzalez,Corporate,Europe,France,Marseille
+101,Sarah Smith,Small Business,Europe,Germany,Hamburg
+102,Ravi Wilson,Consumer,Asia Pacific,India,Mumbai
+103,William Gonzalez,Consumer,Europe,Germany,Berlin
+104,Hans Gonzalez,Consumer,Europe,France,Lyon
+105,Jessica Smith,Corporate,Europe,France,Paris
+106,Ravi Williams,Corporate,North America,Canada,Toronto
+107,Linda Miller,Corporate,Asia Pacific,India,Mumbai
+108,Robert Thomas,Corporate,Asia Pacific,Australia,Sydney
+109,Wei Rodriguez,Corporate,Asia Pacific,Australia,Melbourne
+110,Elizabeth Brown,Corporate,North America,United States,Chicago
+111,Wei Miller,Consumer,Europe,Spain,Barcelona
+112,Wei Martinez,Small Business,Asia Pacific,Australia,Sydney
+113,Barbara Moore,Consumer,Asia Pacific,India,Mumbai
+114,Ravi Hernandez,Consumer,Europe,United Kingdom,Birmingham
+115,Susan Lopez,Corporate,Europe,Spain,Madrid
+116,Jennifer Taylor,Small Business,Europe,Germany,Munich
+117,Susan Jackson,Consumer,Europe,Spain,Barcelona
+118,Noah Anderson,Consumer,North America,United States,Los Angeles
+119,James Thomas,Small Business,Europe,Spain,Barcelona
+120,Barbara Rodriguez,Consumer,North America,Canada,Toronto
+121,Thomas Miller,Consumer,Asia Pacific,Japan,Tokyo
+122,Sarah Davis,Corporate,Asia Pacific,Singapore,Singapore
+123,Sofia Smith,Consumer,Asia Pacific,Singapore,Singapore
+124,Linda Martinez,Corporate,North America,Canada,Montreal
+125,Susan Moore,Consumer,Europe,Spain,Barcelona
+126,Elizabeth Rodriguez,Consumer,Asia Pacific,Singapore,Singapore
+127,Patricia Moore,Small Business,Asia Pacific,Australia,Melbourne
+128,Michael Thomas,Consumer,Asia Pacific,Australia,Sydney
+129,Liam Miller,Consumer,Asia Pacific,Japan,Tokyo
+130,James Moore,Consumer,Europe,Germany,Munich
+131,Elizabeth Jones,Corporate,North America,United States,Seattle
+132,Charles Martinez,Consumer,Europe,United Kingdom,London
+133,Mary Rodriguez,Small Business,Europe,France,Paris
+134,Richard Thomas,Consumer,Europe,United Kingdom,London
+135,Robert Jackson,Small Business,Asia Pacific,India,Bengaluru
+136,Sarah Wilson,Corporate,North America,United States,New York
+137,Joseph Anderson,Consumer,Asia Pacific,Australia,Melbourne
+138,Charles Martin,Consumer,Asia Pacific,Singapore,Singapore
+139,Ravi Miller,Consumer,Asia Pacific,India,Bengaluru
+140,Jennifer Moore,Consumer,North America,United States,Chicago
+141,Wei Martin,Consumer,North America,Canada,Vancouver
+142,Wei Martinez,Corporate,North America,United States,Los Angeles
+143,Linda Rodriguez,Corporate,Europe,United Kingdom,Birmingham
+144,Patricia Moore,Consumer,Asia Pacific,Australia,Melbourne
+145,John Johnson,Consumer,North America,Canada,Toronto
+146,Patricia Anderson,Corporate,Europe,France,Lyon
+147,Thomas Moore,Consumer,Asia Pacific,Singapore,Singapore
+148,Yuki Hernandez,Corporate,North America,United States,Dallas
+149,Priya Jackson,Corporate,North America,United States,Chicago
+150,Mary Garcia,Consumer,North America,Canada,Montreal
+151,Jennifer Jackson,Consumer,Asia Pacific,Singapore,Singapore
+152,Barbara Wilson,Consumer,Europe,United Kingdom,Manchester
+153,David Wilson,Corporate,Asia Pacific,India,Bengaluru
+154,Joseph Williams,Consumer,Europe,Spain,Madrid
+155,Emma Taylor,Corporate,Europe,United Kingdom,Manchester
+156,Mary Miller,Consumer,North America,Canada,Vancouver
+157,Hans Johnson,Consumer,Asia Pacific,Singapore,Singapore
+158,Joseph Thomas,Consumer,Asia Pacific,Australia,Melbourne
+159,Elizabeth Moore,Consumer,Asia Pacific,Australia,Sydney
+160,Liam Brown,Consumer,Europe,United Kingdom,London
+161,Olivia Martinez,Consumer,North America,United States,Dallas
+162,Jessica Davis,Consumer,Europe,Spain,Barcelona
+163,Olivia Martin,Consumer,North America,Canada,Toronto
+164,Hans Wilson,Consumer,North America,United States,Los Angeles
+165,Elizabeth Martinez,Corporate,Asia Pacific,Japan,Tokyo
+166,Joseph Moore,Consumer,Asia Pacific,Singapore,Singapore
+167,Olivia Hernandez,Small Business,Europe,Spain,Barcelona
+168,Linda Wilson,Consumer,Asia Pacific,Australia,Melbourne
+169,Richard Jones,Consumer,Asia Pacific,Singapore,Singapore
+170,Charles Hernandez,Small Business,North America,United States,Seattle
+171,Olivia Anderson,Consumer,Europe,United Kingdom,Birmingham
+172,Robert Williams,Consumer,North America,Canada,Montreal
+173,Wei Gonzalez,Corporate,Europe,France,Marseille
+174,Ravi Thomas,Small Business,Europe,Spain,Barcelona
+175,Ravi Martinez,Small Business,North America,United States,Chicago
+176,Patricia Brown,Consumer,Asia Pacific,India,Hyderabad
+177,Mary Hernandez,Corporate,Asia Pacific,Japan,Tokyo
+178,Susan Jones,Consumer,Europe,France,Lyon
+179,Jennifer Williams,Corporate,Europe,Germany,Berlin
+180,Olivia Jackson,Consumer,Europe,Germany,Munich
+181,William Smith,Small Business,Europe,France,Lyon
+182,Sarah Garcia,Consumer,Europe,France,Marseille
+183,Susan Rodriguez,Consumer,Europe,France,Marseille
+184,Emma Thomas,Consumer,Europe,Germany,Munich
+185,Elizabeth Martinez,Consumer,Europe,France,Marseille
+186,James Jackson,Small Business,Asia Pacific,Singapore,Singapore
+187,Liam Martinez,Corporate,Asia Pacific,India,Hyderabad
+188,Ravi Miller,Corporate,North America,Canada,Toronto
+189,Noah Johnson,Consumer,Asia Pacific,Australia,Sydney
+190,Barbara Jones,Consumer,Europe,United Kingdom,Birmingham
+191,Susan Garcia,Consumer,Europe,France,Marseille
+192,Liam Garcia,Consumer,Asia Pacific,Japan,Osaka
+193,Emma Hernandez,Corporate,Europe,France,Marseille
+194,Hans Davis,Small Business,Europe,United Kingdom,London
+195,John Gonzalez,Consumer,Asia Pacific,Singapore,Singapore
+196,Barbara Rodriguez,Corporate,Asia Pacific,India,Hyderabad
+197,Priya Davis,Consumer,Asia Pacific,Japan,Tokyo
+198,Ravi Williams,Corporate,Asia Pacific,Japan,Tokyo
+199,Susan Brown,Consumer,Europe,France,Marseille
+200,Patricia Brown,Consumer,North America,Canada,Vancouver
+201,Joseph Lopez,Corporate,Asia Pacific,Australia,Melbourne
+202,Noah Wilson,Corporate,Asia Pacific,Singapore,Singapore
+203,Mary Lopez,Consumer,Europe,Spain,Barcelona
+204,Patricia Lopez,Consumer,Europe,Germany,Munich
+205,Richard Rodriguez,Consumer,Asia Pacific,Japan,Tokyo
+206,Priya Miller,Corporate,North America,Canada,Toronto
+207,Sofia Hernandez,Consumer,Asia Pacific,India,Mumbai
+208,Liam Moore,Consumer,North America,United States,New York
+209,Hans Jones,Corporate,North America,United States,Los Angeles
+210,Emma Jones,Small Business,Asia Pacific,India,Delhi
+211,Patricia Smith,Consumer,Asia Pacific,Japan,Tokyo
+212,David Smith,Consumer,Europe,Germany,Hamburg
+213,Thomas Brown,Corporate,North America,United States,Dallas
+214,Thomas Jackson,Consumer,Europe,Spain,Barcelona
+215,Yuki Taylor,Consumer,Asia Pacific,Australia,Sydney
+216,Jessica Gonzalez,Consumer,Asia Pacific,India,Mumbai
+217,Olivia Anderson,Consumer,North America,Canada,Montreal
+218,Robert Williams,Consumer,North America,Canada,Montreal
+219,Karen Taylor,Consumer,Asia Pacific,Japan,Osaka
+220,Sofia Brown,Small Business,Asia Pacific,Singapore,Singapore
+221,Joseph Davis,Consumer,Asia Pacific,Australia,Melbourne
+222,Yuki Brown,Consumer,Europe,Spain,Barcelona
+223,Robert Thomas,Consumer,Europe,France,Lyon
+224,Patricia Lopez,Corporate,North America,United States,Dallas
+225,Priya Brown,Consumer,Asia Pacific,India,Delhi
+226,Elizabeth Martin,Consumer,Asia Pacific,Singapore,Singapore
+227,Priya Thomas,Consumer,North America,United States,Chicago
+228,Barbara Brown,Corporate,North America,Canada,Montreal
+229,Emma Moore,Small Business,Asia Pacific,Australia,Melbourne
+230,James Garcia,Consumer,Asia Pacific,India,Delhi
+231,James Garcia,Small Business,Europe,France,Lyon
+232,Robert Smith,Consumer,Asia Pacific,Singapore,Singapore
+233,Susan Anderson,Consumer,Asia Pacific,Australia,Melbourne
+234,David Jackson,Corporate,Europe,France,Marseille
+235,Hans Martin,Consumer,North America,United States,Chicago
+236,Priya Wilson,Consumer,North America,Canada,Vancouver
+237,Michael Taylor,Consumer,Europe,Spain,Barcelona
+238,Priya Jackson,Consumer,Europe,United Kingdom,Manchester
+239,Linda Gonzalez,Small Business,Asia Pacific,Japan,Tokyo
+240,Elizabeth Miller,Corporate,North America,United States,Chicago
+241,Patricia Smith,Consumer,Europe,France,Lyon
+242,Richard Moore,Corporate,Europe,Germany,Berlin
+243,Richard Johnson,Consumer,Asia Pacific,Japan,Tokyo
+244,Charles Wilson,Corporate,Europe,United Kingdom,Manchester
+245,Patricia Gonzalez,Consumer,Asia Pacific,Singapore,Singapore
+246,Joseph Lopez,Consumer,Europe,Germany,Hamburg
+247,Charles Gonzalez,Consumer,North America,United States,Dallas
+248,David Davis,Consumer,Europe,France,Marseille
+249,Ravi Brown,Consumer,North America,United States,Seattle
+250,Yuki Jones,Consumer,North America,Canada,Vancouver

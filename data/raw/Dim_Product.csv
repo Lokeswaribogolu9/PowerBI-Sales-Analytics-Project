@@ -1,0 +1,101 @@
+ProductID,ProductName,SubCategory,Category,UnitCost,UnitPrice
+1000,ProBook 14,Laptops,Electronics,152.94,329.68
+1001,UltraSlim 15,Laptops,Electronics,294.14,540.86
+1002,GameMax 17,Laptops,Electronics,66.63,95.97
+1003,AirLite 13,Laptops,Electronics,27.94,58.1
+1004,WorkStation X1,Laptops,Electronics,242.44,469.67
+1005,Galaxy Nova,Smartphones,Electronics,13.13,28.53
+1006,iPhonic 12,Smartphones,Electronics,333.81,497.75
+1007,Pixel Prime,Smartphones,Electronics,76.82,112.55
+1008,Nova Mini,Smartphones,Electronics,125.18,221.85
+1009,Zenith Z1,Smartphones,Electronics,175.62,274.34
+1010,SoundMax Pro,Headphones,Electronics,246.68,351.65
+1011,BassBoost 200,Headphones,Electronics,120.4,196.22
+1012,AirBuds Lite,Headphones,Electronics,185.15,371.53
+1013,StudioMonitor,Headphones,Electronics,83.87,147.85
+1014,NoiseCancel X,Headphones,Electronics,239.0,320.69
+1015,TabPro 10,Tablets,Electronics,244.98,356.07
+1016,SlateBook 8,Tablets,Electronics,30.7,66.13
+1017,PadOne 11,Tablets,Electronics,386.42,783.49
+1018,MiniTab 7,Tablets,Electronics,125.32,173.93
+1019,DrawPad Pro,Tablets,Electronics,275.27,466.9
+1020,SnapShot X200,Cameras,Electronics,53.21,92.89
+1021,ProLens D5,Cameras,Electronics,18.58,39.36
+1022,ActionCam 4K,Cameras,Electronics,107.22,203.32
+1023,MirrorPro M2,Cameras,Electronics,128.13,226.54
+1024,TravelCam Lite,Cameras,Electronics,220.95,323.99
+1025,ErgoComfort,Chairs,Furniture,387.99,775.06
+1026,ExecutiveMax,Chairs,Furniture,376.1,791.82
+1027,StudyChair Pro,Chairs,Furniture,241.17,513.62
+1028,MeshBack Chair,Chairs,Furniture,39.95,58.98
+1029,LoungeSeat,Chairs,Furniture,22.86,36.41
+1030,StandDesk Pro,Desks,Furniture,158.53,244.8
+1031,CornerDesk XL,Desks,Furniture,332.35,538.77
+1032,CompactDesk,Desks,Furniture,115.97,207.4
+1033,ExecutiveDesk,Desks,Furniture,60.67,122.67
+1034,GamingDesk RGB,Desks,Furniture,34.45,75.38
+1035,ClassicShelf,Bookcases,Furniture,310.04,458.5
+1036,ModernCube,Bookcases,Furniture,7.18,14.6
+1037,TallShelf Pro,Bookcases,Furniture,284.21,555.95
+1038,CornerBookcase,Bookcases,Furniture,309.65,423.18
+1039,MiniShelf,Bookcases,Furniture,146.59,205.85
+1040,FileCabinet Pro,Storage,Furniture,345.93,643.76
+1041,StorageBin Set,Storage,Furniture,135.7,184.17
+1042,DrawerUnit,Storage,Furniture,127.84,203.61
+1043,ShelfOrganizer,Storage,Furniture,293.19,549.38
+1044,LockerBox,Storage,Furniture,355.45,613.15
+1045,DeskLamp LED,Lighting,Furniture,52.24,101.45
+1046,FloorLamp Modern,Lighting,Furniture,305.51,551.49
+1047,ClipLight Mini,Lighting,Furniture,309.53,539.95
+1048,SmartBulb Pack,Lighting,Furniture,211.48,356.3
+1049,AmbientGlow,Lighting,Furniture,15.04,21.01
+1050,CopyPaper A4,Paper,Office Supplies,17.41,32.6
+1051,GlossyPhoto Paper,Paper,Office Supplies,129.17,227.04
+1052,RecycledPaper,Paper,Office Supplies,363.49,554.09
+1053,NotePad Set,Paper,Office Supplies,167.1,330.86
+1054,CardStock Pack,Paper,Office Supplies,95.38,130.6
+1055,RingBinder 2in,Binders,Office Supplies,119.45,172.62
+1056,ClipFolder,Binders,Office Supplies,372.23,754.62
+1057,PortfolioCase,Binders,Office Supplies,255.19,531.9
+1058,ExpandingFile,Binders,Office Supplies,322.45,473.33
+1059,PresentationBinder,Binders,Office Supplies,357.56,638.39
+1060,GelPen Pack,Pens & Pencils,Office Supplies,323.94,682.37
+1061,MechanicalPencil,Pens & Pencils,Office Supplies,130.61,182.73
+1062,MarkerSet,Pens & Pencils,Office Supplies,95.03,160.07
+1063,FountainPen,Pens & Pencils,Office Supplies,328.12,680.74
+1064,HighlighterPack,Pens & Pencils,Office Supplies,7.75,13.64
+1065,ShippingLabels,Labels,Office Supplies,169.88,254.8
+1066,NameLabels,Labels,Office Supplies,52.35,83.96
+1067,ColorLabels,Labels,Office Supplies,377.45,600.48
+1068,WaterproofLabels,Labels,Office Supplies,209.92,405.72
+1069,BarcodeLabels,Labels,Office Supplies,148.63,323.21
+1070,StandardEnvelope,Envelopes,Office Supplies,385.17,588.0
+1071,PaddedMailer,Envelopes,Office Supplies,201.41,316.37
+1072,WindowEnvelope,Envelopes,Office Supplies,117.51,156.66
+1073,LegalEnvelope,Envelopes,Office Supplies,245.78,430.71
+1074,ColoredEnvelope,Envelopes,Office Supplies,25.33,39.28
+1075,ClassicShirt,Men's Wear,Apparel,363.77,551.33
+1076,SlimFitJeans,Men's Wear,Apparel,62.23,108.31
+1077,CasualJacket,Men's Wear,Apparel,394.33,598.53
+1078,FormalSuit,Men's Wear,Apparel,270.49,537.05
+1079,PoloShirt,Men's Wear,Apparel,98.87,193.33
+1080,SummerDress,Women's Wear,Apparel,150.27,280.87
+1081,SkinnyJeans,Women's Wear,Apparel,255.24,454.89
+1082,BlazerSet,Women's Wear,Apparel,40.66,83.43
+1083,CasualTop,Women's Wear,Apparel,131.71,193.33
+1084,MaxiSkirt,Women's Wear,Apparel,21.11,38.67
+1085,RunningShoes,Footwear,Apparel,272.64,358.5
+1086,LeatherBoots,Footwear,Apparel,207.28,311.72
+1087,CasualSneakers,Footwear,Apparel,259.84,378.57
+1088,FormalLoafers,Footwear,Apparel,277.92,458.03
+1089,SandalSet,Footwear,Apparel,375.01,533.93
+1090,LeatherBelt,Accessories,Apparel,139.72,195.91
+1091,SilkScarf,Accessories,Apparel,370.25,773.68
+1092,SunglassesPro,Accessories,Apparel,106.89,202.45
+1093,WristWatch,Accessories,Apparel,327.8,589.94
+1094,HandbagClassic,Accessories,Apparel,214.21,325.1
+1095,KidsTshirt,Kids Wear,Apparel,41.78,88.05
+1096,SchoolUniform,Kids Wear,Apparel,360.67,674.38
+1097,PlayShorts,Kids Wear,Apparel,138.92,224.26
+1098,KidsJacket,Kids Wear,Apparel,291.75,614.83
+1099,PartyDress,Kids Wear,Apparel,355.4,711.47
